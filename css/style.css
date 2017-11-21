@@ -55,7 +55,7 @@
    font-size: 3em;   
  }   
  section.about {   
-   background: gray;    
+   background: lightgreen;    
    color: white;   
  }   
      
@@ -120,3 +120,11 @@
  .btn-social i {
     line-height: 45px;
  }
+
+ header{
+ background-color: lightgreen;
+}
+
+footer{
+ background-color: lightgreen;
+}
